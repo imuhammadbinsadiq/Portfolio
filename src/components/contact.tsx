@@ -5,7 +5,7 @@ import { Card } from '@/components/ui/card';
 const contactInfo = [
   { icon: <Mail className="h-6 w-6" />, text: 'muhammadbinsadiq6@gmail.com', href: 'mailto:muhammadbinsadiq6@gmail.com', label: "Email" },
   { icon: <Phone className="h-6 w-6" />, text: '+92-326-5072174', href: 'tel:+923265072174', label: "Phone" },
-  { icon: <Linkedin className="h-6 w-6" />, text: 'LinkedIn', href: 'https://linkedin.com/in/muhammed-sadiq-b-s-a03577172', label: "LinkedIn" },
+  { icon: <Linkedin className="h-6 w-6" />, text: 'LinkedIn', href: 'https://www.linkedin.com/in/iammuhammadbinsadiq', label: "LinkedIn" },
   { icon: <Github className="h-6 w-6" />, text: 'GitHub', href: 'https://github.com/imuhammadbinsadiq', label: "GitHub" },
   { icon: <User className="h-6 w-6" />, text: 'Credly', href: 'https://www.credly.com/users/muhammad-bin-sadiq', label: "Credly" },
 ];
